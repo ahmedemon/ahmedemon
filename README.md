@@ -55,12 +55,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
 </p>
 
-<!-- ---
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated-green?style=for-the-badge&logo=upwork&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=ahmedemon&style=flat-square" alt="Profile Views"/>
-</p>
--->
