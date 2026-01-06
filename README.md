@@ -6,12 +6,11 @@
 - 🌱 Learning **Nest.js**, backend architecture, and REST APIs  
 - 💻 Full-Stack: Laravel, React.js, Vue.js, TailwindCSS, Inertia.js, Livewire  
 - 🛠 Databases: MySQL, MariaDB, SQLite  
-- ⚡ Top-Rated **Upwork** freelancer  
 - 📫 Contact: `ahmedemon335198@gmail.com`  
 - 🌐 Exploring new technologies and best practices  
 - 📝 Writing clean, maintainable code  
 - 🔧 Git & GitHub for version control and collaboration  
-- 🖥 Comfortable with Linux and shell scripting  
+- 🖥 Comfortable with Linux
 - 📦 API testing with Postman  
 - 🎨 Skilled in UI/UX and responsive design  
 - 🚀 Learning cloud deployment, Docker, CI/CD  
