@@ -22,16 +22,16 @@
 ## 🔗 Connect with me
 
 <div>
-  <a href="https://www.linkedin.com/in/ejazahmede/" target="_blank">
+  <a href="https://www.linkedin.com/in/ejazahmede/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/ahmedemon__" target="_blank">
+  <a href="https://x.com/ahmedemon__" target="_blank"  style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-black?style=flat-square&logoColor=white" alt="X"/>
   </a>
-  <a href="https://twitter.com/@ejazahmed__" target="_blank">
+  <a href="https://twitter.com/@ejazahmed__" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://fb.com/ejazahmed19" target="_blank">
+  <a href="https://fb.com/ejazahmed19" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
