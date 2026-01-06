@@ -47,15 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedemon&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedemon&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
