@@ -2,10 +2,21 @@
 
 ### A passionate full-stack web developer from Bangladesh
 
-- 👀 Enthusiastic about Software Engineering  
-- 🌱 Currently learning **Nest.js**  
-- ⚡ Top-Rated freelancer at **Upwork**  
-- 📫 Reach me at: `ahmedemon335198@gmail.com`
+- 👀 Passionate about **Software Engineering** and scalable web apps  
+- 🌱 Learning **Nest.js**, backend architecture, and REST APIs  
+- 💻 Full-Stack: Laravel, React.js, Vue.js, TailwindCSS, Inertia.js, Livewire  
+- 🛠 Databases: MySQL, MariaDB, SQLite  
+- ⚡ Top-Rated **Upwork** freelancer  
+- 📫 Contact: `ahmedemon335198@gmail.com`  
+- 🌐 Exploring new technologies and best practices  
+- 📝 Writing clean, maintainable code  
+- 🔧 Git & GitHub for version control and collaboration  
+- 🖥 Comfortable with Linux and shell scripting  
+- 📦 API testing with Postman  
+- 🎨 Skilled in UI/UX and responsive design  
+- 🚀 Learning cloud deployment, Docker, CI/CD  
+- 🤝 Open to collaborations and open-source contributions  
+- 🎯 Focused on efficient, scalable solutions  
 
 ---
 
@@ -45,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
 </p>
 
----
+<!-- ---
 
 ## 🏆 Achievements
 
@@ -53,3 +64,4 @@
   <img src="https://img.shields.io/badge/Upwork-Top%20Rated-green?style=for-the-badge&logo=upwork&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=ahmedemon&style=flat-square" alt="Profile Views"/>
 </p>
+-->
