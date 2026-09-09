@@ -8,17 +8,17 @@
 - 📫 Contact: `ahmedemon335198@gmail.com`  
 - 🚀 Learning cloud deployment, Docker, CI/CD  
 
-## 🔗 Connect with me
+## Connect with me:
 
 <div>
   <a href="https://www.linkedin.com/in/ejazahmede/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/@ejazahmed__" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/ejazahmede/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/>
   </a>
 </div>
 
