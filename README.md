@@ -11,14 +11,14 @@
 ## Connect with me:
 
 <div>
-  <a href="https://www.linkedin.com/in/ejazahmede/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20px;" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ejazahmede/" target="_blank" style="text-decoration: none !important;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40px;" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/@ejazahmed__" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="20px;" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40px;" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/ejazahmede/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="20px;" alt="Facebook"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40px;" alt="Facebook"/>
   </a>
 </div>
 
