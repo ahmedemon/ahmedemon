@@ -1,23 +1,12 @@
-# 👋 Hi, I’m Ejaz Ahmed
+# 
 
 ### A passionate full-stack web developer from Bangladesh
 
-- 👀 Passionate about **Software Engineering** and scalable web apps  
-- 🌱 Learning **Nest.js**, backend architecture, and REST APIs  
+- 👋 Hi, I’m Ejaz Ahmed
 - 💻 Full-Stack: Laravel, React.js, Vue.js, TailwindCSS, Inertia.js, Livewire  
-- 🛠 Databases: MySQL, MariaDB, SQLite  
+- 🛠 Databases: MySQL, MariaDB, SQLite, MongoDB
 - 📫 Contact: `ahmedemon335198@gmail.com`  
-- 🌐 Exploring new technologies and best practices  
-- 📝 Writing clean, maintainable code  
-- 🔧 Git & GitHub for version control and collaboration  
-- 🖥 Comfortable with Linux
-- 📦 API testing with Postman  
-- 🎨 Skilled in UI/UX and responsive design  
 - 🚀 Learning cloud deployment, Docker, CI/CD  
-- 🤝 Open to collaborations and open-source contributions  
-- 🎯 Focused on efficient, scalable solutions  
-
----
 
 ## 🔗 Connect with me
 
